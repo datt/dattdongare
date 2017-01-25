@@ -1,0 +1,57 @@
+# Build settings
+permalink   : /blog/:title/
+markdown    : kramdown
+highlighter : pygments
+gems: [jekyll-paginate]
+
+paginate: 3
+paginate_path: "/blog/page/:num/"
+comments: true
+
+source: source
+destination: _site
+sass:
+  sass_dir: _scss
+  style: compressed # expanded
+
+# SEO settings
+title: Datt Dongare | Technical Director at BTW Group
+description: "Datt Dongare is Technical Director at BTW Group. I'm an entreprenuer, programmer, analyst and a digital marketer."
+keywords: "Technical Director BTW Group entreprenuer "
+url: http://dattdongare.com
+baseurl: ""
+
+# google_analytics: UA-52446115-1
+repo: http://github.com/datt
+disqus_shortname: "datt"
+disqus_site_shortname: "datt"
+
+# Author settings
+author:
+  name      : Datt Dongare
+  job       : Technical Director
+  bio       : "Entreprenuer Technology Enthusiast"
+  thumb     : /images/datt-dongare.jpg
+  email     : datt@cart91.com
+  url       : http://dattdongare.com
+  github    : http://github.com/datt
+  twitter   : http://twitter.com/DattDongare
+  facebook  : http://facebook.com/datt.dongare
+  linkedin  : http://linkedin.com/in/dattdongare
+company:
+  name: BTW Group
+  url: http://www.btwgroup.co
+
+
+# navbar pages
+navbar:
+  # - slug: about
+  #   title: About
+  # - slug: resume
+  #   title: Resume
+  # - slug: skills
+  #   title: Skills
+  - slug: blog
+    title: Blog | Startups | Programming | Digital Marketing | Datt Dongare
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
