@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Which is best? Startup or MNC?"
+title:  "Which Is Better For You Startup or MNC"
+heading: "Which is better? Startup or MNC?"
 description: "If you are confused whether to choose startup or mnc, this comparison highlights the differences between both and can clear the pros and cons. Rest choose that suits you best"
 date:   2017-01-30 13:46:52
 comments: true
