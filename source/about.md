@@ -5,7 +5,7 @@ description: 'Datt Dongare a.k.a. Dattatraya Irappa Dongare, Technical Director 
 permalink: /about/
 ---
 
-I'm Datt Dongare a.k.a. Dattatraya Irappa Dongare, currently working as Technical Director at BTW Group of companies. I currently live in Pune, was born and raised in Pune. I've completed Bachelor of Computer Engineering(B.E.) from Sinhgad College of Engineering, University of Pune. I started my career as a software developer in Global Logic. I worked in webonise lab for 3 years Software developer(ROR), later joined Yogurt labs in banglore for 8 months. I love to travel, photography, rap. I rap in my leisure time under the stage name <a href="#">Data Don</a>.
+I'm Datt Dongare a.k.a. Dattatraya Irappa Dongare, currently working as Technical Director at BTW Group of companies. I currently live in Pune, was born and raised in Pune. I've completed Bachelor of Computer Engineering(B.E.) from Sinhgad College of Engineering, University of Pune. I started my career as a software developer in Global Logic. I worked in webonise lab for 3 years Software developer(ROR), later joined Yogurt labs in banglore for 8 months. I love to travel, photography, rap. I rap in my leisure time under the stage name <a href="http://thedatadon.com">Data Don</a>.
 
 I have almost 5 years of experience in software development, more than a year experience in digital marketing. I'm responsible for all technical tasks in BTW Group, starting from analyzing, programming considering UX to deployment, handling digital marketing. I love solving the problems with innovative ideas. 
 
