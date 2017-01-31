@@ -52,6 +52,6 @@ navbar:
   # - slug: skills
   #   title: Skills
   - slug: blog
-    title: Blog | Startups | Programming | Digital Marketing | Datt Dongare
+    title: Blog
 
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]

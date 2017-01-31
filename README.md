@@ -48,7 +48,6 @@ Access, [localhost:4000/end2end](http://localhost:4000/end2end)
 [Demo](http://nandomoreira.me/end2end/)
 [Download](https://github.com/nandomoreirame/end2end/archive/master.zip)
 
-![end2end - free Jekyll theme](/screenshot.png)
 
 ---
 

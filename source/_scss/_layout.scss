@@ -294,6 +294,13 @@ body.home {
   }
 }
 
+.thumb{
+  width: 132px;
+}
+
+.site-header a.logo{
+  text-transform: auto;
+}
 
 .pagination {
   @extend %clearfix;
