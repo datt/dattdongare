@@ -17,20 +17,20 @@ sass:
 # SEO settings
 title: Datt Dongare | Technical Director at BTW Group
 description: "Datt Dongare is Technical Director at BTW Group. I'm an entreprenuer, programmer, analyst and a digital marketer."
-keywords: "Technical Director BTW Group entreprenuer "
+keywords: "Technical Director BTW Group entreprenuer digital marketer"
 url: http://dattdongare.com
 baseurl: ""
 
 google_analytics: UA-73244121-10
 repo: http://github.com/datt
-disqus_shortname: "datt"
-disqus_site_shortname: "datt"
+disqus_shortname: "dattdongare"
+disqus_site_shortname: "dattdongare"
 
 # Author settings
 author:
   name      : Datt Dongare
   job       : Technical Director
-  bio       : "Entreprenuer Technology Enthusiast"
+  bio       : "Programmer, Analyst, Entreprenuer, Digital Marketer, Technology & Startup Enthusiast"
   thumb     : /images/datt-dongare.jpg
   email     : datt@cart91.com
   url       : http://dattdongare.com
@@ -45,8 +45,8 @@ company:
 
 # navbar pages
 navbar:
-  # - slug: about
-  #   title: About
+  - slug: about
+    title: About
   # - slug: resume
   #   title: Resume
   # - slug: skills
