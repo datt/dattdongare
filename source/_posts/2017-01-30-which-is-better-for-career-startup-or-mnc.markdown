@@ -12,8 +12,8 @@ tags:
 - career
 ---
 
-Nowadays people find a startup in every corner. Whether a person is experienced or a fresher, it's hard for him to choose between a startup and an MNC. Why it shouldn't be hard, even if it is a critical decision for your further career.
-I have listed below a little information in regard to comparison in both startup and MNC's which will let you decide.
+Nowadays people finds startup in every corner. Whether a person is experienced or a fresher, it's hard for him to choose between a startup and an MNC. Why it shouldn't be hard, even if it is a critical decision for their further career.
+I have listed below a little information in regard to comparison in both startup and MNC which will let you decide.
 
 <h3>Skill Development:</h3>
 <h6>Startup:</h6> 
@@ -26,9 +26,9 @@ One of my friends got joining in reputed MNC and after 9 months of his working, 
 
 <h3>Work and Job Satisfaction:</h3>
 <h6>Startup:</h6> 
-You need to work harder, company's growth depends on every team member, you may need to spend more hours at the office. But at the end of the day you'll be satisfied with your job and surely you will constantly learn new things. 
+You need to work harder, company's growth depends on every team member, you may need to spend extra hours at the office. But at the end of the day you'll be satisfied with your job and you will constantly learn new things. 
 <h6>MNC:</h6> 
-Your work will have fix time, let's say 9 am to 5 pm. Your job satisfaction will depend on the type of project you get.
+Your work amy have fix time, let's say 9 am to 5 pm. Your job satisfaction will depend on the type of project you get and your manager.
 
 <h3>Growth/ Opportunities:</h3>
 <h6>Startup:</h6> 
@@ -40,11 +40,11 @@ At MNC you might need to wait years to be in a higher position as most of the co
 <h6>Startup:</h6> 
 You'll get less salary in a startup, but it can provide more salary when it starts growing further you might get shares in the company.
 <h6>MNC:</h6> 
-You may get a higher salary in MNC related to startups.
+You may get a higher salary in MNC compared to startups.
 
 <h3>Politics/ Transparency:</h3>
 <h6>Startup:</h6> 
-You have more value in the company as a person. There is more transparency, you directly works with the founding members of the company. 
+You have more value in the company as a person. There is more transparency, you directly work with the founding members of the company. 
 <h6>MNC:</h6> 
 MNCs are less transparent, people involve in politics to grow which might drag you down even if you're deserving.
 
