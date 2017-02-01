@@ -23,8 +23,8 @@ baseurl: ""
 
 google_analytics: UA-73244121-10
 repo: http://github.com/datt
-disqus_shortname: "dattdongare"
-disqus_site_shortname: "dattdongare"
+disqus_shortname: dattdongare
+disqus_site_shortname: dattdongare
 
 # Author settings
 author:
