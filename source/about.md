@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-description: 'Datt Dongare a.k.a. Dattatraya Irappa Dongare, Technical Director at BTW Group of companies.'
+title: About Datt Dongare | work | BTW Group of companies
+excerpt: 'Datt Dongare a.k.a. Dattatraya Irappa Dongare, Technical Director at BTW Group of companies.'
 permalink: /about/
 ---
 
