@@ -7,11 +7,11 @@ permalink: /about/
 
 I'm Datt Dongare a.k.a. Dattatraya Irappa Dongare, currently working as Technical Director at BTW Group of companies. I currently live in Pune, was born and raised in Pune. I've completed Bachelor of Computer Engineering(B.E.) from Sinhgad College of Engineering, University of Pune. I started my career as a software developer in Global Logic. I worked in webonise lab for 3 years Software developer(ROR), later joined Yogurt labs in banglore for 8 months. I love to travel, photography, rap. I rap in my leisure time under the stage name <a href="http://thedatadon.com" target="_blank">Data Don</a>.
 
-I have almost 5 years of experience in software development, more than a year experience in digital marketing. I'm responsible for all technical tasks in BTW Group, starting from analyzing, programming considering UX to deployment, handling digital marketing. I love solving the problems with innovative ideas. 
+I have almost 5 years of experience in software development, more than 1 year of experience in digital marketing. I'm responsible for all technical tasks in BTW Group, starting from analyzing, programming considering UX to deployment, handling digital marketing. I love solving the problems with innovative ideas. I'm technology and startup enthusiast, I'm keen about emerging technologies, I support startups. 
 
 
 <h3>About BTW Group of Companies</h3>
-BTW Group of companies is mostly working in service sector in different domains like travel, education, food, ecommerce and marketing. The BTW Group's head office is in Pune - Maharashtra, spreading wings in other cities i.e. Mumbai, Ahmedabad. BTW group of companies makes it special as it's team is young and dynamic, It's pleasure to work with such energetic team.
+<a href="http://www.btwgroup.co/?utm_medium=website&utm_source=dd&utm_campaign=bl&utm_content=about" target="_blank">BTW Group of companies</a> is mostly working in service sector in different domains like travel, education, food, ecommerce and marketing. The BTW Group's head office is in Pune - Maharashtra, spreading wings in other cities i.e. Mumbai, Ahmedabad. BTW group of companies makes it special as it's team is young and dynamic, It's pleasure to work with such energetic team.
 
 <a href="http://www.btwvisas.com/?utm_medium=website&utm_source=dd&utm_campaign=bl&utm_content=about" target="_blank">BTW Visa Services</a> is oldest company in BTW Group, It's primary service is to provide visa consultancy apart from that it also provide other travel services like Air Ticketing, Travel Insurance etc.
 

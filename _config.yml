@@ -30,7 +30,7 @@ disqus_site_shortname: "dattdongare"
 author:
   name      : Datt Dongare
   job       : Technical Director
-  bio       : "Programmer, Analyst, Entreprenuer, Digital Marketer, Technology & Startup Enthusiast"
+  bio       : "Programmer, Analyst, Entreprenuer, Digital Marketer"
   thumb     : /images/datt-dongare.jpg
   email     : datt@cart91.com
   url       : http://dattdongare.com
@@ -40,7 +40,7 @@ author:
   linkedin  : http://linkedin.com/in/dattdongare
 company:
   name: BTW Group
-  url: http://www.btwgroup.co
+  url: "http://www.btwgroup.co?utm_medium=website&utm_source=dd&utm_campaign=bl&utm_content=home"
 
 
 # navbar pages

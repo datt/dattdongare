@@ -302,6 +302,10 @@ body.home {
   text-transform: none;
 }
 
+.bio{
+  font-weight: normal;
+}
+
 .pagination {
   @extend %clearfix;
   text-align: center;
