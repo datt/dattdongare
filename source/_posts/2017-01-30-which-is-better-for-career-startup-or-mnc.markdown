@@ -4,6 +4,7 @@ title:  "Which is better for career, Startup or MNC"
 heading: "Which is better for your career? a Startup or an MNC?"
 excerpt: "If you're confused whether to choose startup or mnc, this comparison highlights the differences between both, rest choose that suits you best."
 date:   2017-01-30 13:46:52
+last_modified_at: 2017-01-30 13:46:52
 comments: true
 categories: startup entrepreneur
 keywords: "startups, entrepreneur, job, career"
