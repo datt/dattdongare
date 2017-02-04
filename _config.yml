@@ -2,7 +2,9 @@
 permalink   : /blog/:title/
 markdown    : kramdown
 highlighter : pygments
-gems: [jekyll-paginate]
+gems:
+  - 'jekyll-paginate'
+  - 'jekyll-seo-tag'
 
 paginate: 3
 paginate_path: "/blog/page/:num/"
@@ -25,6 +27,16 @@ google_analytics: UA-73244121-10
 repo: http://github.com/datt
 disqus_shortname: dattdongare
 disqus_site_shortname: dattdongare
+
+name:           "Datt Dongare | Technical Director at BTW Group"
+description:    "Datt Dongare is Technical Director at BTW Group, an entreprenuer, programmer, analyst and a digital marketer."
+url:            "http://dattdongare.com" # URL of site, include http://, do not include a trailing slash
+logo:           "/images/datt-dongare.jpg"
+timezone:       Asia/Kolkata
+locale:         en_us
+twitter:
+  username:   "@DattDongare"
+  card:       "summary"
 
 # Author settings
 author:
